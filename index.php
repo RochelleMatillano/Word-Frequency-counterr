@@ -56,7 +56,7 @@
         input[type="submit"]:hover {
             background-color: #ad1457; /* Darker hover color */
         }
-
+        /*center */
         /* Center the bottom part */
         .result-container {
             max-width: 600px;
@@ -141,4 +141,4 @@
     </div>
 </body>
 
-</html> 
+<html>
